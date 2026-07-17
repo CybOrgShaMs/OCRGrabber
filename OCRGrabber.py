@@ -1,10 +1,10 @@
 # ┌───────────────────────────────────────────────────────────────────────────┐
-# │ OCRGrabber                                                               │
+# │ OCRGrabber                                                                │
 # │ Lightweight desktop OCR overlay                                           │
 # │                                                                           │
 # │ Author     : CyborgShams                                                  │
 # │ GitHub     : https://github.com/CybOrgShaMs                               │
-# │ Repository : https://github.com/CybOrgShaMs/OCRGrabber                   │
+# │ Repository : https://github.com/CybOrgShaMs/OCRGrabber                    │
 # │ License    : MIT                                                          │
 # └───────────────────────────────────────────────────────────────────────────┘
 
